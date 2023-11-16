@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Luke1810
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me Discord: luke.1810
+- 📫 How to reach me: 
+        Discord: luke.1810
 
 <!---
 Luke1810/Luke1810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
